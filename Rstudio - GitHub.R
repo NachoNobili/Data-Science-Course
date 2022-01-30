@@ -1,5 +1,3 @@
 print(" This file was created using Rstudio")
 
 print("And now it lives on GitHub")
-
-print("Second try")
